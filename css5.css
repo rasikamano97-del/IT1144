@@ -1,0 +1,25 @@
+body{
+	font-family:sans-serif;
+	line-height:1.6;
+	margin:40px;
+	color:#333;
+}
+
+nav{
+	background:#f4f4f4;
+	padding:15px;
+	border-radius:5px;
+	margin-bottom:20px;
+}
+
+nav a{
+	margin-right:20px;
+	text-decoration:none;
+	color:#0070f3;
+	font-weight:bold;
+}
+
+.current{
+	color:#333;
+	pointer-events:none;
+}

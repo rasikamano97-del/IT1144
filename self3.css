@@ -1,0 +1,57 @@
+.container{
+	display:flex;
+		justify-content:space-around;
+	list-style:none;
+	background:linear-gradient(to right, red,yellow);
+	
+}
+nav li a{
+	display:flex;
+	text-decoration:none;
+	background-color:black;
+
+}
+
+nav li a:hover{
+	color:red;
+	background-color:yellow;
+	text-decoration:underline;
+	padding:30px;
+	
+}
+
+.logo{
+	display:flex;
+}
+
+}
+
+.nav-logo{
+	display:flex;
+}
+
+.services{
+	padding:30px;
+	color:blue;
+	box-shadow:10px 10px 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.card{
+	box-sizing:20px;
+	color:blue;
+	font-family:arial;
+	
+}
+
+.input-box{
+	color:red;
+	box-sizing:20px;
+}
+	
+.wrapper{
+	color:green;
+}
+
+body{
+	background-image:url('download.jpg');
+}
